@@ -18,5 +18,4 @@ def maxInList(x):
 
 if __name__ == '__main__':
 	x = map(int, raw_input().strip().split(' '))
-	
 	maxInList(x)
