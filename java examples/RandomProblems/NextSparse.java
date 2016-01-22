@@ -1,8 +1,6 @@
 import java.util.*;
 
 class NextSparse {
-
-
 	static void findNextSparse(String binString) {
 
 		int [] outputArray = new int[binString.length()+1];
